@@ -201,9 +201,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
- {file_name}
-
-⚙️ sɪᴢᴇ : {file_size}"""
+ <a href="https://t.me/Latest_Movies_FreeOnNet"><b>{file_name}</b></a>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
